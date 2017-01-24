@@ -945,7 +945,7 @@ h1, h2{
   position: relative;
   left: 0px;
   top: 0px;
-  min-height: 30px;
+  min-height: 100px;
   width: 100%;
   display: block;
   clear: both; }
